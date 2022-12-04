@@ -7,27 +7,27 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['917720983954']
+global.OwnerNumber = ['917720983954']
+global.ownertag = ['917720983954']
+global.BotName = "Mai Sakurajima"
+global.packname = "Mai bot"
+global.author = "By Asta Atharv"
+global.OwnerName = "Atharv Hatwar"
+global.BotSourceCode = "https://geeksarchon.com"
+global.SupportGroupLink = "https://geeksarchon.com"
 global.sessionName = "session"
 
+// Prefix //
+// If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
+global.prefa = ['-'] 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
-
-
-global.location = "West Bengal, India"
+global.location = "Maharashtra, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.vidmenu = { url: 'https://media.tenor.com/PGQKCAVKUTkAAAAC/mai-sakurajima-bunny-girl-senpai.gif' }
+global.websitex = "https://geeksarchon.com"
 global.lolhuman = "KaysaS"
 
 
@@ -59,9 +59,9 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
+    useradmin: 'Sorry, only *Atharv Senpai or Group Admins* can use this command *Baka*!',
     botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
+    botowner: 'Only my *Owner or Group Admin* can use this command, Baka!',
     grouponly: 'This command is only made for *Groups*, Baka!',
     privateonly: 'This command is only made for *Private Chat*, Baka!',
     botonly: 'Only the *Bot itself* can use this command!',
@@ -70,7 +70,7 @@ global.mess = {
     error: 'An error occurd!',
     banned: 'You are *Banned* fron using commands!',
     bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    nonsfw: 'Dont be a pervert Baka! *Ask Lord Atharv or Group Admin* This is not a NSFW enabled group!'
     
 }
 
