@@ -42,7 +42,6 @@ const { Gempa } = require("./lib/gempa.js");
 const ms = require('ms')
  let { covid } = require('./lib/covid.js') 
 const { jadwaltv }= require('./lib/jadwaltv');
-const { MaiTiktok } = require('./lib/tiktokMaidl');
 const maker = require('mumaker')
 const xfarrapi = require('xfarr-api')
 const { hentai } = require('./lib/scraper2.js')
